@@ -1,67 +1,69 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <h1>Om</h1>
+  <h3>Software Developer | AI Enthusiast | Lifelong Learner</h3>
 </div>
-
-###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<h2><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true"></h2>
 </div>
+<br>
 
-###
+Hello! I'm a passionate student and developer with a deep curiosity for the intersection of technology and creativity. My journey is driven by a desire for continuous self-growth and exploring everything from the low-level intricacies of Operating Systems and C++ to the complex worlds of Artificial Intelligence and LLM. I believe in building practical, innovative solutions and am always eager to dive into new challenges.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+---
 
-###
+### 🚀 My Tech Stack & Core Interests
 
-<h1 align="center">hey there 👋</h1>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages & Core Skills:</strong><br>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      </p>
+      <strong>Fields of Interest:</strong><br>
+      <p>
+        <img src="https://img.shields.io/badge/AI_&_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+        <img src="https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Data Science"/>
+        <img src="https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems"/>
+<!--         <img src="https://img.shields.io/badge/Cryptography-0073B1?style=for-the-badge&logo=lock&logoColor=white" alt="Cryptography"/> -->
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Libraries & Tools:</strong><br>
+      <ul>
+        <li>Numpy</li>
+        <li>Pandas</li>
+        <li>LangChain</li>
+        <li>LangGraph</li>
+        <li>Jupyter Notebooks</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-###
+### 🌱 I'm Currently Exploring
 
-<h3 align="left">👩‍💻  About Me</h3>
+-   Building robust AI models and exploring new data science techniques.
+-   Diving deeper into the fundamentals of AI Models.
+-   Implementing and understanding how Transformer power the LLM.
+-   Honing my C++ skills with STL.
 
-###
+### 📊 My GitHub Stats
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="center">
+  <a href="https://github.com/OmPatilGit/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmPatilGit&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="github-stats" />
+  </a>
+  <a href="https://github.com/OmPatilGit/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmPatilGit&layout=compact&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="top-langs" />
+  </a>
+</p>
 
-###
+### 🤝 Let's Connect
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p align="left">
+  <a href="https://www.linkedin.com/in/om-patil07/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=light" alt="OmPatilGit" height="30" width="40" /></a>
+  <a href="https://x.com/OmPatil44" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=light" alt="OmPatil44" height="30" width="40" /></a>
+</p>
