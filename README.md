@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Om</h1>
+  <h1>Om Patil</h1>
   <h3>Software Developer | AI Enthusiast | Lifelong Learner</h3>
 </div>
 <div align="center">
