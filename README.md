@@ -52,10 +52,12 @@ Hello! I'm a passionate student and developer with a deep curiosity for the inte
 
 ### 📊 My GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/OmPatilGit/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmPatilGit&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="github-stats" />
   </a>
+<br>
+  <br>
   <a href="https://github.com/OmPatilGit/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmPatilGit&layout=compact&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="top-langs" />
   </a>
