@@ -51,7 +51,7 @@ Hello! I'm a passionate student and developer with a deep curiosity for the inte
 -   Honing my C++ skills with STL.
 
 ### 📊 My GitHub 
-[My Cool AI Project](https://github.com/OmPatilGit/GitHub) – A GitHub assistant built with LangChain and Langgraph.
+[GitWise - Github AI Assistant](https://github.com/OmPatilGit/GitHub) – A GitHub assistant built with LangChain and Langgraph.
 
 ### 🤝 Let's Connect
 
