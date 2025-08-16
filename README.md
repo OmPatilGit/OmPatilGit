@@ -50,18 +50,8 @@ Hello! I'm a passionate student and developer with a deep curiosity for the inte
 -   Implementing and understanding how Transformer power the LLM.
 -   Honing my C++ skills with STL.
 
-### 📊 My GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/OmPatilGit/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmPatilGit&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="github-stats" />
-  </a>
-<br>
-  <br>
-  <a href="https://github.com/OmPatilGit/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmPatilGit&layout=compact&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="top-langs" />
-  </a>
-</p>
+### 📊 My GitHub 
+[My Cool AI Project](https://github.com/OmPatilGit/GitHub) – A GitHub assistant built with LangChain and Langgraph.
 
 ### 🤝 Let's Connect
 
