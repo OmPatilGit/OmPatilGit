@@ -7,7 +7,8 @@
 </div>
 <br>
 
-Hello! I'm a passionate student and developer with a deep curiosity for the intersection of technology and creativity. My journey is driven by a desire for continuous self-growth and exploring everything from the low-level intricacies of Operating Systems and C++ to the complex worlds of Artificial Intelligence and LLM. I believe in building practical, innovative solutions and am always eager to dive into new challenges.
+Hello! 
+Nothing Much to say, just a student interested in AI
 
 ---
 
